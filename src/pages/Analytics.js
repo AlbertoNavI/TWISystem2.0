@@ -8,7 +8,7 @@ function Analytics () {
       <NavBarA />
       <div className="board">
         <iframe
-          height={500}
+          height={700}
           width={1000}
           src="https://datastudio.google.com/embed/reporting/cbab2ed0-5c57-44ea-b219-f4dfd6bb877b/page/MxypC"
           allowfullscreen
